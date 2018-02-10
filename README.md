@@ -25,7 +25,7 @@ kpws({
     
     //debug & logging
     logMessage          : 2,                             // default:3,   1 connect-disconnect //2 sent-messages //3
-    logError			: true,                          // default: true,
+    logError            : true,                          // default: true,
     
     //function for evaluating if provide connection or to refuse.. is a func that return true or false
     checkAuthFN         : function(request){             // default: undefined, so every incoming connection
