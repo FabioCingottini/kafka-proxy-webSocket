@@ -1,0 +1,30 @@
+{
+  "name": "kafkaproxywebsocket",
+  "version": "1.0.0",
+  "description": "\u0016 little package for broadcasting messagges from a kafka topic to a multiple websocket clients, build with no-kafka and ws libraries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabioCingottini/kafka-proxy-webSocket.git"
+  },
+  "keywords": [
+    "kafka",
+    "websocket",
+    "proxy",
+    "ws",
+    "no-kafka"
+  ],
+  "author": "Fabio Cingottini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FabioCingottini/kafka-proxy-webSocket/issues"
+  },
+  "homepage": "https://github.com/FabioCingottini/kafka-proxy-webSocket#readme",
+  "dependencies": {
+    "no-kafka": "^3.2.8",
+    "ws": "^4.0.0"
+  }
+}
