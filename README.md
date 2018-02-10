@@ -24,7 +24,7 @@ kpws({
     pingDelay           : 10000,                         // default: 10000   
     
     //debug & logging
-    logMessage          : 2,                             // default:3,   1 connect-disconnect //2 sent-messages //3
+    logMessage          : 2,                             // default:3,   1 connect-disconnect //2 sent-messages //3all
     logError            : true,                          // default: true,
     
     //function for evaluating if provide connection or to refuse.. is a func that return true or false
